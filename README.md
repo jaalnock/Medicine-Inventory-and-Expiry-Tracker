@@ -154,3 +154,6 @@ curl -s http://localhost:8080/api/test/users | jq '.'
 
 # Count users only
 curl -s http://localhost:8080/api/test/status | jq '.users_count'
+
+
+## Developed by Sahil Katkamwar.
